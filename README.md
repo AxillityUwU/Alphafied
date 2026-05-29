@@ -8,7 +8,7 @@
 
 Alphafied recreates the atmosphere of early Minecraft Alpha while keeping the game smooth, stable and multiplayer-friendly on modern versions.
 
-![Alphafied thumbnail](https://i.ibb.co/93pZTML6/638accd8-eed2-4e53-8606-0d0659bd6793.png)
+![Alphafied thumbnail](https://i.ibb.co/7tn8Vjg4/2d11e6c2-1ba1-4156-aa93-85641c8eb0f0.png)
 
 Focused on nostalgia rather than horror, the pack brings back the lonely, calm and cozy feeling of old Minecraft through carefully selected mods, classic-style world generation, old-school ambience and subtle visual changes inspired by the Alpha era.
 
