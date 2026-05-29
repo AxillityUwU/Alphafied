@@ -6,7 +6,7 @@
 
 A nostalgic Minecraft experience inspired by **Minecraft Alpha v1.0.16_02**
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21+-5fbf5f?style=for-the-badge\&logo=minecraft\&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-5fbf5f?style=for-the-badge\&logo=minecraft\&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Loader-Fabric-db6b1f?style=for-the-badge)
 ![Performance](https://img.shields.io/badge/Optimized-FPS-brightgreen?style=for-the-badge)
 ![Multiplayer](https://img.shields.io/badge/Multiplayer-Friendly-blue?style=for-the-badge)
