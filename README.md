@@ -8,9 +8,9 @@ A nostalgic Minecraft experience inspired by **Minecraft Alpha v1.0.16_02**
 
 ![Fabric](https://img.shields.io/badge/Loader-Fabric-db6b1f?style=for-the-badge)
 ![Multiplayer](https://img.shields.io/badge/Multiplayer-Friendly-blue?style=for-the-badge)
-[![CurseForge](https://img.shields.io/badge/CurseForge-Download-f16436?style=for-the-badge\&logo=curseforge\&logoColor=white)()]
-[![Modrinth](https://img.shields.io/badge/Modrinth-Download-1bd96a?style=for-the-badge\&logo=modrinth\&logoColor=white)()]
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)()]
+[![CurseForge](https://img.shields.io/badge/CurseForge-Download-f16436?style=for-the-badge\&logo=curseforge\&logoColor=white)](https://example.com)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-1bd96a?style=for-the-badge\&logo=modrinth\&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)]()
 
 </div>
 
