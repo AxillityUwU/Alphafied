@@ -16,7 +16,7 @@ A nostalgic Minecraft experience inspired by **Minecraft Alpha v1.0.16_02**
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/.github/assets/banner.png" width="100%">
+  <img src="https://i.ibb.co/93pZTML6/638accd8-eed2-4e53-8606-0d0659bd6793.png" width="100%">
 </p>
 
 ## 📖 About
@@ -42,16 +42,6 @@ The goal is simple:
 * 🪵 Minimalistic gameplay experience
 * 🔧 Carefully selected mods
 
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://i.ibb.co/93pZTML6/638accd8-eed2-4e53-8606-0d0659bd6793.png" width="80%">
-</p>
-
----
-
 ## ❤️ Credits
 
 ### Inspiration
@@ -60,6 +50,7 @@ The goal is simple:
 
 ### Mods & Resources
 
+* Nostalgic Reverie
 * PoeticRainbow
 * Adrenix
 
